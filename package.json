@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-twitter-widgets-module",
+  "name": "@miyaoka/nuxt-twitter-widgets-module",
   "version": "0.0.0",
   "description": "Twitter widgets loader for Nuxt",
   "license": "MIT",
